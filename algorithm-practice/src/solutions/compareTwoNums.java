@@ -1,5 +1,7 @@
-import java.util.Scanner;
+package solutions;
 
+import java.util.Scanner;
+//Jan 22 2024
 public class compareTwoNums {
     // Compare given two integer value A, B.
     // If A is bigger than B, then return '>'.

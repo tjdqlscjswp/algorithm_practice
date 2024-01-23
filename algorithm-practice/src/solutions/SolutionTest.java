@@ -1,3 +1,5 @@
+package solutions;
+
 import java.util.*;
 
 // 알고리즘 문제
