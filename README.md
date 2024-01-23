@@ -35,3 +35,15 @@ if (num1 == num2) {
 }
 
 Or String result1 = (num1>num2) ? ">" : ((num1<num2)?"<":"=="); with ternary operator.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Jan 23 2024
+
+Today I solved simple conditional statement problem which is distinguish whether the given number of the year is leap year or not.
+
+
+
+
+
