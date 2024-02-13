@@ -43,6 +43,12 @@ Jan 23 2024
 
 Today I solved simple conditional statement problem which is distinguish whether the given number of the year is leap year or not.
 
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Feb 13 2024
+
+Have been lazy these days. Today solved simple and easy loop statement problem which is print times table with input integer.
+
 
 
 
