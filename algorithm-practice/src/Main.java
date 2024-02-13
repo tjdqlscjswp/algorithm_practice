@@ -12,16 +12,11 @@ public class Main {
         //Jan, 23, 2024
         Scanner sc = new Scanner(System.in);
 
-        int year;
-        int result; // 1 or 0
-        year = sc.nextInt();
-
-        if((year % 4==0 && year % 100 != 0) || year % 400 ==0){
-            result = 1;
-        }else {
-            result = 0;
+        int n;
+        //1 <= n <= 9
+        n = sc.nextInt();
+        for(int i=1; i<10; i++){
+            System.out.println(n + " * " + i +" = " + n*i);
         }
-
-        System.out.println(result);
     }
 }
